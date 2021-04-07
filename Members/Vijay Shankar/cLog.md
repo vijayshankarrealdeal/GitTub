@@ -3,9 +3,11 @@
 2-added icons and frames in voiceAPP later renamed to Awards
 3-added some algo works of c++
 
-<<<<<<< Updated upstream
 #Day 2 - 2 march 2021
 1-Using Curves Draw a Ring in Flutter
 2-Awards logo
-=======
->>>>>>> Stashed changes
+
+# April
+## well enjoying the work
+## the contributions are being done each day
+## each commit make me feel better about my work.
