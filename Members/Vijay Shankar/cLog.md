@@ -17,3 +17,6 @@
 
 # April End
 ### projects made - algo-visual,womenapp,face expression, eunoiaa app
+
+# Next Work 
+## learn about kernels for making diffrent types of filters.
